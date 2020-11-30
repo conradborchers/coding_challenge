@@ -1,0 +1,7 @@
+/jpg
+/detectron2
+/bert
+/pdf
+/examples
+*.pdf
+result1.png
